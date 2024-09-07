@@ -1,0 +1,4 @@
+node_modules/
+.DS_Store
+postgres/
+s3_buckets/
