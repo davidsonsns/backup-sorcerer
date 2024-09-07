@@ -12,7 +12,7 @@ A simple, one-time backup solution for AWS S3 and PostgreSQL databases, designed
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/backup-wizard.git
+   git clone https://github.com/davidsonsns/backup-wizard.git
    cd backup-wizard
    ```
 2. Install dependencies:
